@@ -1,0 +1,79 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url(backGround.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Formula 1', Courier, monospace;
+    font-size: 50px;
+    color: white;
+}
+
+h2{
+    text-align: center;
+    font-family: 'velocity', Courier, monospace;
+    margin-top: 100px;
+    color: white;
+}
+
+.fia{
+    float: left;
+    margin-top: 50px; 
+    margin-left: 100px; 
+  }
+  
+.f1{
+    float: right;
+    margin-top: 55px; 
+    margin-right: 100px; 
+}
+
+table,th,td{
+    border-radius: 10px;
+    padding: 5px 2px 5px 2px;
+    backdrop-filter: blur(10px);
+    border: 2px solid black;
+    font-family: 'Segoe UI', Courier, monospace;
+}
+
+.tabelinha{
+    border-collapse: collapse;
+    margin-top: 40px;
+    font-family: Avenir;
+    margin-left: 560px;
+}
+
+.tabelinha2{
+    margin-top: 50px;
+}
+
+.tabelinha3{
+    margin-top: 50px;
+}
+
+.tabelinha4{
+    margin-top: 50px;
+}
+
+.tableinha5{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+th, td{
+    color: #ffff;
+}
+
+table{
+    text-align: center;
+}
+
+.titulo2{
+    margin-top: 100px;
+}
